@@ -1,7 +1,14 @@
+
 #logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 150px;
-  margin-bottom: 150px;
+  margin-bottom: 65px;
+}
+
+address {
+  font-family: Waiting for the sunrise;
+  font-size: 20px;
+  text-align: center;
 }
